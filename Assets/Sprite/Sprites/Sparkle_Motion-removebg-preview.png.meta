@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 4d8c3d99d6676214592895dee3f1e17b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 70
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sparkle_Motion-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 397
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852c866205d4d1643b19adcd74039548
+      internalID: -1204280904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparkle_Motion-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 397
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feeaa6c2e6b9def4c977d039e167fd25
+      internalID: -1196086673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparkle_Motion-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 397
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0b5ccfac1fde24f870234f091a7ff7
+      internalID: 1998034775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparkle_Motion-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 397
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3db928e50b3594bb1ea98659e87671
+      internalID: 1741199793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparkle_Motion-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 397
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e744d9765b9de42b397f887bc8972d
+      internalID: 276292870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparkle_Motion-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 397
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304166d837d59274c8d4ca4d2ca2af78
+      internalID: 1380555114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sparkle_Motion-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 397
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd63f3171b685c7469e68fd640797342
+      internalID: 2064466855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sparkle_Motion-removebg-preview_0: -1204280904
+      Sparkle_Motion-removebg-preview_38: -1824842338
+      Sparkle_Motion-removebg-preview_45: 1773030563
+      Sparkle_Motion-removebg-preview_1: -1196086673
+      Sparkle_Motion-removebg-preview_9: 1705286705
+      Sparkle_Motion-removebg-preview_30: -230509261
+      Sparkle_Motion-removebg-preview_25: 1449432661
+      Sparkle_Motion-removebg-preview_10: -376134053
+      Sparkle_Motion-removebg-preview_14: -2035690787
+      Sparkle_Motion-removebg-preview_19: -1013914510
+      Sparkle_Motion-removebg-preview_29: -434516891
+      Sparkle_Motion-removebg-preview_40: -1589786278
+      Sparkle_Motion-removebg-preview_8: -483682791
+      Sparkle_Motion-removebg-preview_43: 2105266755
+      Sparkle_Motion-removebg-preview_22: -1270748260
+      Sparkle_Motion-removebg-preview_34: -334937854
+      Sparkle_Motion-removebg-preview_27: -272663774
+      Sparkle_Motion-removebg-preview_33: -319725421
+      Sparkle_Motion-removebg-preview_37: -1927751647
+      Sparkle_Motion-removebg-preview_4: 276292870
+      Sparkle_Motion-removebg-preview_47: -1774225810
+      Sparkle_Motion-removebg-preview_13: 759582699
+      Sparkle_Motion-removebg-preview_18: -2043343384
+      Sparkle_Motion-removebg-preview_35: -2116125069
+      Sparkle_Motion-removebg-preview_36: 1132016243
+      Sparkle_Motion-removebg-preview_21: 9978554
+      Sparkle_Motion-removebg-preview_31: -793908155
+      Sparkle_Motion-removebg-preview_28: -1177281830
+      Sparkle_Motion-removebg-preview_41: 1643043504
+      Sparkle_Motion-removebg-preview_7: 1596651218
+      Sparkle_Motion-removebg-preview_26: 2136458457
+      Sparkle_Motion-removebg-preview_5: 1380555114
+      Sparkle_Motion-removebg-preview_39: -1722723353
+      Sparkle_Motion-removebg-preview_6: 2064466855
+      Sparkle_Motion-removebg-preview_17: 62171418
+      Sparkle_Motion-removebg-preview_20: -1843229717
+      Sparkle_Motion-removebg-preview_44: -1787040223
+      Sparkle_Motion-removebg-preview_15: 1996094442
+      Sparkle_Motion-removebg-preview_24: -459923757
+      Sparkle_Motion-removebg-preview_46: -260933420
+      Sparkle_Motion-removebg-preview_23: -1644260674
+      Sparkle_Motion-removebg-preview_32: 2074362046
+      Sparkle_Motion-removebg-preview_42: -767900791
+      Sparkle_Motion-removebg-preview_2: 1998034775
+      Sparkle_Motion-removebg-preview_12: 1577506764
+      Sparkle_Motion-removebg-preview_16: -1717729070
+      Sparkle_Motion-removebg-preview_3: 1741199793
+      Sparkle_Motion-removebg-preview_11: 2096412085
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
